@@ -2,9 +2,14 @@
     background-color: #ffffff;
     color: #05243B;
     display: flex;
+    justify-content: space-around;
+
     }
 
 .cabecalho-imagem {
     width: 20%;
 }
 
+.cabecalho-lista-item {
+    display: inline-block;
+}
