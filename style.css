@@ -1,9 +1,13 @@
+*{
+    max-width: 0;
+    padding: 0;
+}
+
 .cabecalho {
     background-color: #ffffff;
     color: #05243B;
     display: flex;
     justify-content: space-around;
-
     }
 
 .cabecalho-imagem {
@@ -13,3 +17,4 @@
 .cabecalho-lista-item {
     display: inline-block;
 }
+
