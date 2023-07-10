@@ -36,9 +36,12 @@
 
 .NRE-div-conteudo{
     width: 35;
-    padding: 24px 0;
-    }
+}
 
 .NRE-titulo{
     padding: 24px 0;
+}
+
+.NRE-texto-um{
+    padding: 12px 0;
 }
