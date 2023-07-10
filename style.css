@@ -69,4 +69,5 @@ body {
 
 .PLATAFORMAS-todos{
     display: grid;
+    grid-template-columns: 50%;
 }
