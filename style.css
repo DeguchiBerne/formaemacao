@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Inter', sans-serif;
+}
+
 .cabecalho {
     background-color: #ffffff;
     color: #05243B;
