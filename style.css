@@ -29,9 +29,10 @@
     background-image: linear-gradient(#05243B,#FFFFFF);
     color: #FFFFFF;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .NRE-div-coteudo{
     width: 35;
-    justify-content: space-around;
-}
+    }
