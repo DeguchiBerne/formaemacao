@@ -74,7 +74,9 @@ body {
 
 .rodape {
     background-color: #05243B;
-    text-align: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .rodape-imagem {
@@ -85,4 +87,5 @@ body {
 .texto-rodape {
     color: #FFFFFF;
     text-align: center;
+
 }
