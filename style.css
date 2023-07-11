@@ -84,5 +84,6 @@ body {
 
 .texto-rodape {
     color: #FFFFFF;
+    display: flex;
     text-align: center;
 }
