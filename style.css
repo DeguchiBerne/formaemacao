@@ -60,6 +60,7 @@ body {
 
 .plafatorma-div{
     text-align: center;
+    font-size: small;
 }
 
 .PLATAFORMAS-titulo{
@@ -70,7 +71,6 @@ body {
 .PLATAFORMAS-todos{
     display: grid;
     grid-template-columns: 50% 50%;
-    font-size: small;
 }
 
 .rodape {
