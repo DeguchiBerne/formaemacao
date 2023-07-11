@@ -30,7 +30,7 @@ body {
 }
 
 .NRE{
-    background-image: linear-gradient(#05243B,#FFFFFF);
+    background-image: #05243b
     color: #FFFFFF;
     display: flex;
     justify-content: center;
@@ -74,9 +74,7 @@ body {
 
 .rodape {
     background-color: #05243B;
-    color: #FFFFFF;
-    display: flex;
-    text-align: center;
+    text-align: right;
 }
 
 .rodape-imagem {
@@ -85,5 +83,7 @@ body {
 }
 
 .texto-rodape {
-    
+    color: #FFFFFF;
+    display: ;
+    text-align: center;
 }
