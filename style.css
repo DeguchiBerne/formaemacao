@@ -64,6 +64,10 @@ body {
     padding: 12px;
     }
 
+.PLATAFORMAS{
+    background-image: linear-gradient(##05243B; #ffffff);
+}
+
 .PLATAFORMAS-titulo{
     text-align: center;
     padding: 50px 0 0;
